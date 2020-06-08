@@ -33,5 +33,5 @@ This project was developed with the following technologies:
 
 
 Made with by Micaela Andrade </br>
-[LinkedIn](https://www.linkedin.com/in/micaela-andrade-a9a17a64/) | [Email](micaela.andrade@outlook.com)
+[LinkedIn](https://www.linkedin.com/in/micaela-andrade-a9a17a64/) | [Email](mailto:micaela.andrade@outlook.com)
 
